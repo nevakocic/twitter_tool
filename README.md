@@ -8,15 +8,15 @@ So, nothing fancy and two steps to complete - 1st run python script and then pro
 >>it takes some time for both, since there are million links to grab from<<
 (maybe you want to remove some?)
 
-0. have to have internet connection
-1. run python script to generate .csv file that processing will read.
+00. have to have internet connection
+01. run python script to generate .csv file that processing will read.
 In terminal, navigate to show_articles/data folder with final.py file and go:
 
 python scrape.py
 
 hit return. Wait to finish. Now there is updated output.cvs file and time to
 
-2. run processing sketch. 
+02. run processing sketch. 
 Run it and wait (this will also take couple of minutes). 
 -that's it. Scroll and click on link to check full article online. 
 
