@@ -22,11 +22,13 @@ Run it and wait (this will also take couple of minutes).
 
 
 ............................................................................
+
 https://www.youtube.com/watch?v=5n45c0-NRzg&feature=youtu.be
+
 ...........................................................................
 
-............................................................................
-Also, python script references 2 files, one with list of keywords based on which you will get the result, and one with links for scraping. Change them the way you want, but if adding any links, you will need to find rss feed for the site first, and then add that to list. Here is Zarah's list of web sites with the RSS column: 
+
+Python script references 2 files, one with list of keywords based on which you will get the result, and one with links for scraping. Change them the way you want, but if adding any links, you will need to find rss feed for the site first, and then add that to list. Here is Zarah's list of web sites with the RSS column: 
 
 https://docs.google.com/spreadsheets/d/1zFdKZGFbtg5GBi6YynuN5i82qloP4xlmYtDf28URdb8/edit#gid=0
 this is just FYI, which links are included.
